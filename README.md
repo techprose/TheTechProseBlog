@@ -1,2 +1,2 @@
-# TheTechProseBlog
+# TheTechProseRepertoire
 What holds good in words holds infinitely better in code...
